@@ -1,0 +1,4 @@
+[{
+  "keys": ["super+shift+n"],
+  "command": "ng_annotate"
+}]
